@@ -53,7 +53,6 @@ Our current technology exploration includes:
 - Streamlit and web technologies
 - Git and GitHub
 
-Each member is responsible for their own technical contributions, and we will bring the individual components together during integration.
 
 ## Repository Structure
 
